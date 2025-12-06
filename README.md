@@ -5,7 +5,7 @@ This project involved creating an interactive Tableau dashboard for a comprehens
 
 ## 📸 Key Findings (Static Visuals)
 
-![Accident Severity Map](/assets/images/tableau-main.png) 
+![Accident Severity Map](US Accidents Analysis.png) 
 
 ## 🛠️ Technology Stack
 * **Data Analysis:** Python (Pandas)
