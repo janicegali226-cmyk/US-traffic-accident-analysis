@@ -5,7 +5,7 @@ This project involved creating an interactive Tableau dashboard for a comprehens
 
 ## 📸 Key Findings (Static Visuals)
 
-The image of Tableau dashboard is shown as the US Accidents Analysis.png. Our analysis of U.S. traffic accidents shows clear patterns:
+The image of Tableau dashboard is shown as the **US Accidents Analysis.png.** Our analysis of U.S. traffic accidents shows clear patterns:
 
 
 * Accidents are most frequent in coastal and highly populated states, confirming the link between traffic flow and accident counts.
